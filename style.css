@@ -324,7 +324,7 @@
   position: relative;
 }
 
-..footer-container ul li::before{
+.footer-container ul li::before{
   content: '';
   position: absolute;
   transform: translate(-50%,-50%);
